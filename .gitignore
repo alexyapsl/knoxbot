@@ -17,3 +17,8 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local runtime
+bin/
+logs/
+

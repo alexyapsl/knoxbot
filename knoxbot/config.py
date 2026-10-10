@@ -49,8 +49,8 @@ class Config:
             missing.append("KNOX_ACCESS_TOKEN")
         if not self.system_id:
             missing.append("KNOX_SYSTEM_ID")
-        if not self.bot_email:
-            missing.append("KNOX_BOT_EMAIL")
+        # bot_email is informational only (status/logging); replies go to the
+        # inbound chatroomId, so it is not required.
         return missing
 
 
