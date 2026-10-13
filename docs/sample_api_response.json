@@ -1,0 +1,72 @@
+{
+  "resultCode": "0000",
+  "resultMessage": "SUCCESS",
+  "productDatas": [
+    {
+      "productCode": "SM-F9760ZKPTGY",
+      "stockLevelStatus": "inStock",
+      "stockLevelStatusDisplay": "貨量充足",
+      "salesStatus": "ON_SALE",
+      "price": 20798.0,
+      "priceFormatted": "HK$20,798.00",
+      "promotionPrice": 19998.0,
+      "promotionPriceFormatted": "HK$19,998.00",
+      "promotionPriceValidTo": null,
+      "resultCode": "0000",
+      "resultMessage": "SUCCESS",
+      "reserveNowBtnYn": "N",
+      "aemAdditionalInfoTypes": [],
+      "flagPreOrder": "N",
+      "supportedAvailableServices": [
+        "BENEFIT",
+        "INSURANCE"
+      ],
+      "savingInformation": "",
+      "blockEddDisplay": "Y",
+      "lowestWasPrice": null,
+      "tierPrices": {
+        "tierPrice": [
+          {
+            "currencyIso": "HKD",
+            "value": 19998.0,
+            "priceType": "BUY",
+            "formattedValue": "HK$19,998.00",
+            "minQuantity": 1,
+            "maxQuantity": null,
+            "sapUnit": null,
+            "isPeriodic": null,
+            "startTime": null,
+            "endTime": null,
+            "startDate": null,
+            "endDate": null,
+            "formattedValueNoCurrency": "19,998.00",
+            "additionalPriceCurrencies": [],
+            "ug": null,
+            "conversion": 1.0,
+            "maxRedemption": null,
+            "channel": null,
+            "carrierName": null
+          }
+        ]
+      },
+      "tieredWasPricesFormatted": {
+        "1": "節省HK$800.00（原價<del>HK$20,798.00</del>）"
+      },
+      "exVatTieredPrices": null,
+      "exVatTieredWasPricesFormatted": null,
+      "msrpPrice": null,
+      "vatFreePrice": null,
+      "vatEligible": false,
+      "stockLevel": 10,
+      "shippingETA": null,
+      "backOrderMessage": null,
+      "blockPickupDisplay": true,
+      "combinedWithServiceType": null,
+      "merchFlags": [],
+      "deliveryModes": null,
+      "deliveryServices": null,
+      "isFreeDeliveryCost": null,
+      "ospPrice": null
+    }
+  ]
+}
